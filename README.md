@@ -1,5 +1,6 @@
 gyvermatrix-automation
-# Бот для светодиодной матрицы [AlexGyver'а](https://youtube.com/c/AlexGyver)
+# Бот для светодиодной матрицы [AlexGyver'а](https://www.youtube.com/channel/UCgtAOyEQdAyjvm9ATCi_Aig)
+*! Прямая трансляция окончена и этот бот больше не применяется*
 
 ![image](https://user-images.githubusercontent.com/58335696/113860527-6cc2c080-97a6-11eb-8d70-96dfca608f23.png)
 
