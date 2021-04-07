@@ -19,3 +19,5 @@ gyvermatrix-automation
 <img src="https://user-images.githubusercontent.com/58335696/113860707-a1cf1300-97a6-11eb-8248-51f6dfae49b0.png" width="200" />
 
 <img src="https://user-images.githubusercontent.com/58335696/113860733-a8f62100-97a6-11eb-85ec-8d027b3be4a9.png" width="200" />
+
+По вопросам в Telegram [@andrisjms](https://t.me/andrisjms)
