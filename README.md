@@ -20,4 +20,14 @@ gyvermatrix-automation
 
 <img src="https://user-images.githubusercontent.com/58335696/113860733-a8f62100-97a6-11eb-85ec-8d027b3be4a9.png" width="200" />
 
-По вопросам в Telegram [@andrisjms](https://t.me/andrisjms)
+<img src="https://user-images.githubusercontent.com/58335696/114067121-c0173a80-989c-11eb-8b5b-84b6e168a495.png" width="200" />
+
+<img src="https://user-images.githubusercontent.com/58335696/114067134-c2799480-989c-11eb-8bb4-b178a803f62b.png" width="200" />
+
+<img src="https://user-images.githubusercontent.com/58335696/114067143-c4435800-989c-11eb-969e-7ed14609f304.png" width="200" />
+
+<img src="https://user-images.githubusercontent.com/58335696/114067156-c7d6df00-989c-11eb-9c70-fbb6c34814f1.png" width="200" />
+
+По вопросам в
++ Telegram [@andrisjms](https://t.me/andrisjms)
++ Instagram [@andris.jms](https://instagram.com/andris.jms)
